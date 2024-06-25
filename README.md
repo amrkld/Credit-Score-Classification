@@ -1,3 +1,5 @@
+#Credit-Score-Classification_ML_Model
+
 This project is a beginner-friendly machine learning model that classifies credit scores using the RandomForestClassifier algorithm from scikit-learn.
 
 **We Used RandomForestClassifier for classification**
